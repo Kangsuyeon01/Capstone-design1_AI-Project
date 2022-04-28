@@ -8,7 +8,7 @@
 * 다국어 번역 지원
 
 -----------------------------------------------------------------------------
-Examples and practice files that you upload while studying artificial intelligence.
+These are examples and practice files that I upload while studying artificial intelligence.
 
 A detailed description of each file can be found in the sillon coding blog.
 
